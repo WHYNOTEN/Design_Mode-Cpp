@@ -1,0 +1,3 @@
+C:/Users/13704/Projects/Qt_Design_Mode/Decorator_Mode/cmake-build-debug/CMakeFiles/Decorator_Mode.dir
+C:/Users/13704/Projects/Qt_Design_Mode/Decorator_Mode/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/13704/Projects/Qt_Design_Mode/Decorator_Mode/cmake-build-debug/CMakeFiles/rebuild_cache.dir

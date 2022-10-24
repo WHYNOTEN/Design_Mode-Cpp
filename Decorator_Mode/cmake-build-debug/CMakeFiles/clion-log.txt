@@ -1,0 +1,4 @@
+C:\Users\13704\SoftWare\Qt\Tools\CMake_64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe" -DCMAKE_CXX_COMPILER=C:/Users/13704/SoftWare/Qt/Tools/mingw810_64/bin/g++.exe -G Ninja -S C:\Users\13704\Projects\Qt_Design_Mode\Decorator_Mode -B C:\Users\13704\Projects\Qt_Design_Mode\Decorator_Mode\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/13704/Projects/Qt_Design_Mode/Decorator_Mode/cmake-build-debug
