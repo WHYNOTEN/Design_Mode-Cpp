@@ -22,8 +22,12 @@ void testFun(){
     pear->showName();
     /*-没有纯虚析构函数的声明和实现-*/
     delete factory;
+    factory = nullptr;
     delete banana;
+    banana = nullptr;
     delete pear;
+    pear = nullptr;
     delete apple;
+    apple = nullptr;
 }
 
